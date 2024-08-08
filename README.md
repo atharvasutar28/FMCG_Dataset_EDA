@@ -37,12 +37,12 @@ Step 4 -> Analyzing all important insights and performing data vizualization.
 7. actual_delivery_date: It is the actual date Atliq Mart delivered the product to the customer.
 
 ### Skills Acquired
-1.Data Cleaning
+1. Data Cleaning
 2. Data Transformation
 3. Data Analysis
 4. Data Visualization
-6. Python
-7. Numpy, Pandas, Seaborn and Matplotlib.
+5. Python
+6. Numpy, Pandas, Seaborn and Matplotlib.
 
 ## Deployment
 
