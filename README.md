@@ -51,17 +51,13 @@ To deploy this project just download the raw file run it in your Jupyter Noteboo
 ## Note
 If the gauge charts are not reflecting in the repo or there is some problem in loading the jupyter file, please download the raw file and try running it in your machine.
 
-## Feedback
-
-If you have any feedback, please reach out to us at atharvaz.at.work@gmail.com
-
 ## Contributing
 
 Contributions are always welcome!
 
-## Support
+## Support & Feedback
 
-For support, email atharvaz.at.work@gmail.com or follow me and dm me on my social media handles.
+For support and feedback, email atharvaz.at.work@gmail.com or follow me and dm me on my social media handles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
